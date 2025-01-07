@@ -23,7 +23,6 @@ Ví Dụ
 
 Mô Tả
     Cho một mảng số nguyên nums và một số nguyên target, hãy tìm tất cả các cặp chỉ số của hai số trong mảng mà tổng của chúng bằng target. Giả định rằng có thể có nhiều cặp thỏa mãn điều kiện này, và bạn cần trả về tất cả các cặp chỉ số khác nhau.
-
 Đầu Vào
     Một mảng số nguyên nums với độ dài n (1 ≤ n ≤ 10^4) chứa các số nguyên. Các số trong mảng có thể là số dương, số âm hoặc số không.
     Một số nguyên target (−10^9 ≤ target ≤ 10^9) là tổng mà bạn cần tìm.
