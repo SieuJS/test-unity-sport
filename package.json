@@ -4,6 +4,8 @@
   "main": "cau1.js",
   "scripts": {
     "test": "jest",
+    "cau1": "node cau1/cau1.js",
+    "cau2": "node cau2/cau2.js",
     "cau3" : "node cau3/cau3.js"
   },
   "keywords": [],
