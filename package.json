@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "cau1.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "cau3" : "node cau3/cau3.js"
   },
   "keywords": [],
   "author": "",
