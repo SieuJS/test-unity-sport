@@ -2,7 +2,7 @@ const fs = require('fs');
 const { join } = require('path');
 
 // Read the JSON file
-fs.readFile(join(__dirname,"compress.json"), 'utf8', (err, data) => {
+fs.readFile(join(__dirname,"data.json"), 'utf8', (err, data) => {
     if (err) {
         console.error('Error reading file:', err);
         return;
