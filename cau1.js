@@ -6,6 +6,8 @@ function isSymmetrical(str) {
     return str === str.split('').reverse().join('');
 }
 
+module.exports = isSymmetrical;
+
 // Example usage
 console.log(isSymmetrical("A man, a plan, a canal, Panama")); // true
 console.log(isSymmetrical("hello")); // false
